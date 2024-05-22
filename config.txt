@@ -16,7 +16,7 @@
     "path_outputs": "/content/Fooocus/outputs",
     "temp_path": "/tmp/fooocus",
     "temp_path_cleanup_on_launch": true,
-    "default_model": "Hassaku.safetensors",
+    "default_model": "Autism.safetensors",
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
@@ -61,7 +61,7 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "karras",
     "default_styles": [],
-    "default_prompt_negative": "3d,",
+    "default_prompt_negative": "3d, censored",
     "default_prompt": "score_9, score_6_up, source_anime,",
     "default_performance": "Speed",
     "default_advanced_checkbox": true,
@@ -81,7 +81,7 @@
         "920*1136",
         "1920*1080"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "920*1136",
     "default_inpaint_engine_version": "v2.6",
     "default_cfg_tsnr": 7.0,
     "default_overwrite_step": 25,
