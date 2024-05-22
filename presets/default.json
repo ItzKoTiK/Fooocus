@@ -38,7 +38,7 @@
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "Hassaku.safetensors": "https://civitai.com/api/download/models/324619"
+        "Hassaku.safetensors": "https://civitai.com/api/download/models/324619?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=d7911c059626fd109d8bba515f595513"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
