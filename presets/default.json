@@ -1,4 +1,4 @@
-    "default_model": "Hassaku.safetensors",
+    "default_model": "Autism.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -33,12 +33,12 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "worst quality, low quality, normal quality,",
+    "default_prompt": "score_9, score_6_up, source_anime,",
+    "default_prompt_negative": "3d,",
     "default_styles": [],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "Hassaku.safetensors": "https://civitai.com/api/download/models/378499?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=d7911c059626fd109d8bba515f595513"
+        "Hassaku.safetensors": "https://civitai.com/api/download/models/324619"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
